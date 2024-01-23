@@ -1,0 +1,11 @@
+Source: rknpu2-dev
+Section: misc
+Priority: optional
+Maintainer: Kaylor Chen <kaylor.chen@qq.com>
+Rules-Requires-Root: no
+Build-Depends: debhelper (>= 7.0.0~)
+
+Package: rknpu2-dev
+Architecture: any
+Description: rknpu2-dev
+
